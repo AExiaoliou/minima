@@ -1,3 +1,5 @@
+# 个人修改
+- [IDEA dark theme highlight](https://github.com/AExiaoliou/minima/commit/f80569f2b2ef0e83a0b3ff55c86d88689fb22cb4) <del>(并不完善</del>
 # minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
