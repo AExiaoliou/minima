@@ -67,6 +67,10 @@
   .il    { color: #099 } // Literal.Number.Integer.Long
 }
 .highlighter-rouge {
-  background: white;
-  color: #2B2B2B;
+  background: #f8f8f8;
+  border-bottom-color: rgb(204, 204, 204);
+  border-top-color: rgb(204, 204, 204);;
+  border-right-color: rgb(204, 204, 204);
+  border-left-color: rgb(204, 204, 204);
+  color: #800;
 }
