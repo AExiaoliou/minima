@@ -5,6 +5,9 @@ date : 2019-4-28 23:06:26 +0800
 categories: post
 ---
 
+## rouge
+`rouge`  
+
 ## c/cpp
 ```cpp
 #include <bits/stdc++.h>
@@ -71,7 +74,7 @@ namespace what_happened {
 ```
 
 ## JAVA
-```
+```java
 import static java.lang.System.out;
 import java.util.*;
 import java.io.*;

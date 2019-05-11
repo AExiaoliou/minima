@@ -4,12 +4,7 @@
 .highlight {
   background: #2B2B2B;
   @extend %vertical-rhythm;
-
-  .highlighter-rouge & {
-    background: #F8F8F8;
-    color: #800;
-  }
-
+  
   .c     { color: #998; font-style: italic } // Comment
   .err   { color: #a61717; } // Error
   .k     { color: #CC7832; font-weight: bold } // Keyword
@@ -70,4 +65,8 @@
   .vg    { color: #008080 } // Name.Variable.Global
   .vi    { color: #008080 } // Name.Variable.Instance
   .il    { color: #099 } // Literal.Number.Integer.Long
+}
+.highlighter-rouge {
+  background: white;
+  color: #2B2B2B;
 }
